@@ -52,5 +52,11 @@ Suspended
 suspended has 143 repositories available. Follow their code...
 
 Enterprise
+Run this command, if necessary, to ensure your key is not publicly viewable.
+ chmod 400 awskeypair.pem
+Connect to your instance using its Public DNS:
+ ec2-3-99-150-86.ca-central-1.compute.amazonaws.com
+Example:
+ ssh -i "awskeypair.pem" ubuntu@ec2-3-99-150-86.ca-central-1.compute.amazonaws.com
 The power of GitHub's social coding for your own workgroup....  
 </form>
