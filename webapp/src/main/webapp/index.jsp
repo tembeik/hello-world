@@ -32,6 +32,9 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
+Bus terminals
+GO Transit operates all of its commuter bus services into and out of downtown Toronto from the Union Station Bus Terminal, a terminal owned and operated by GO Transit and adjacent to Union Station. This bus terminal was opened in 2020, replacing an earlier Union Station GO Bus Terminal. GO Transit also operates the Yorkdale Bus Terminal at Yorkdale Shopping Centre and several terminals at subway stations, including Finch Bus Terminal, Scarborough Centre Bus Terminal and York Mills Bus Terminal.
 
+Most intercity coach services operate out of the new Union Station Bus Terminal after relocating from the decommissioned Toronto Coach Terminal at Bay and Dundas in 2021. Intercity coach companies operating services out of the Union Station Bus Terminal include Ontario Northland and Coach Canada's Megabus. Grayhound Lines is expected to begin using the terminal for its buses to Buffalo and New York City once the Canada–US border reopens after the COVID-19 pandemic.
   
 </form>
